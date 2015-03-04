@@ -14,3 +14,6 @@ Ajax接口性能评测工具
 * count>发起请求次数
 * query>请求参数
   
+运行
+
+    node app.js or npm test
