@@ -7,13 +7,23 @@ Ajax接口性能评测工具
     | -- package.json   // 项目info&npm包管理文件  
     | -- t.js           // 打印日志文件  
 
-配置参数说明
+#getting started
   
   
 * url>ajax请求地址
 * count>发起请求次数
 * query>请求参数
+
+#install
+
+    npm install
   
-运行
+#usage
 
     node app.js or npm test
+
+
+
+#license
+
+Copyright © 2009-2015 Napster. All rights reserved.
